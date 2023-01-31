@@ -1,0 +1,26 @@
+.nav {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 25px;
+    background-color: grey;
+    width: 200;
+    display: inline-block;
+    padding: 50px;
+    
+    
+  }
+  .sidebar {
+    background-color: blue;
+    position: relative;
+    top: auto;
+    left: 0;
+    max-height: fit-content;
+    height: 500;
+    width: 29%;
+  
+  }
+.inline-block {
+  display: inline-block;
+  background-color: gray;
+}
